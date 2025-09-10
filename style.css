@@ -39,8 +39,13 @@ body {
 }
 
 .box-2 {
-    border:3px dotted lightgreen;
-    padding: 15px
-    margin: 15px 0;
-    
+  border: 3px dotted lightgreen;
+  padding: 15px;
+  margin: 15px 0;
+}
+
+.categories {
+  border: 10px solid lightcoral;
+  padding: 10px;
+  border-radius: 10px;
 }
