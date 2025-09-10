@@ -39,5 +39,8 @@ body {
 }
 
 .box-2 {
+    border:3px dotted lightgreen;
+    padding: 15px
+    margin: 15px 0;
     
 }
