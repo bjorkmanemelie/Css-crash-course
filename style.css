@@ -1,0 +1,22 @@
+/* Here we add styling to our whole page */
+body {
+  background-color: darkgreen;
+  color: bisque;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  /* Same as above */
+  font: normal 16px Arial, Helvetica, sans-serif;
+  /* Makes space between lines */
+  line-height: 1.6em;
+}
+
+/* De difference between ID and CLASS is that ID is unique, you can only use it once per page */
+
+.box-1 {
+  background-color: darkblue;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 20px;
+}
