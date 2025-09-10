@@ -14,9 +14,16 @@ body {
 
 /* De difference between ID and CLASS is that ID is unique, you can only use it once per page */
 
+.container {
+  width: 80%; /* This makes the container responsive to the window */
+  margin: auto; /* This centers the container */
+}
+
 .box-1 {
-  background-color: darkblue;
-  border: 2px solid black;
-  padding: 10px;
-  margin: 20px;
+  background-color: paleturquoise;
+  color: #ffffff;
+  border: 5px solid black;
+  border-width: 3px;
+  border-bottom: 10px;
+  border-top-style: dotted;
 }
